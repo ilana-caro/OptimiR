@@ -1054,6 +1054,8 @@ chr4	.	miRNA_primary_transcript	184851013	184851110	.	-	.	ID=MI0016602;Alias=MI0
 chr4	.	miRNA	184851066	184851088	.	-	.	ID=MIMAT0018361;Alias=MIMAT0018361;Name=hsa-miR-3945;Derives_from=MI0016602
 chr4	.	miRNA_primary_transcript	184938383	184938440	.	-	.	ID=MI0016801;Alias=MI0016801;Name=hsa-mir-4455
 chr4	.	miRNA	184938421	184938437	.	-	.	ID=MIMAT0018977;Alias=MIMAT0018977;Name=hsa-miR-4455;Derives_from=MI0016801
+chr5	.	tRNA	181101840	181101921	.	+	.	ID=chr5.trna3-LeuAAG;Alias=chr5.trna3-LeuAAG;Name=chr5.trna3-LeuAAG
+chr5	.	tRF	181101907	181101924	.	+	.	ID=3001a;Alias=chr5.trna3-LeuAAG_trf-3-3001a;Name=chr5.trna3-LeuAAG_trf-3-3001a;Derives_from=chr5.trna3-LeuAAG
 chr5	.	miRNA_primary_transcript	535840	535882	.	-	.	ID=MI0016802;Alias=MI0016802;Name=hsa-mir-4456
 chr5	.	miRNA	535861	535877	.	-	.	ID=MIMAT0018978;Alias=MIMAT0018978;Name=hsa-miR-4456;Derives_from=MI0016802
 chr5	.	miRNA_primary_transcript	1062896	1062974	.	-	.	ID=MI0017262;Alias=MI0017262;Name=hsa-mir-4635

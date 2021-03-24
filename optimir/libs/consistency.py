@@ -100,9 +100,11 @@ def compute_genotype_consistency(bam_dict, d_OptimiR, sample_name):
                     except KeyError:
                         genotype = "UNAVAILABLE"
                     genotype_dict[rsID] = genotype
-                    if not("1" in genotype):
-                        variants_in_polymiR_have_alternative = False
+                    #In the vcf used for VASOGENE study : 1 goes for the reference allele and 0 goes for the alternative allele 
+                    #Change here : 0 is alternative and 1 is reference
                     if not("0" in genotype):
+                        variants_in_polymiR_have_alternative = False
+                    if not("1" in genotype):
                         variants_in_polymiR_have_reference = False
                 ## set(other_variants) must not contain variants with homozygous alternative
                 other_variants_have_reference = True
@@ -113,7 +115,7 @@ def compute_genotype_consistency(bam_dict, d_OptimiR, sample_name):
                     except KeyError:
                         genotype = "UNAVAILABLE"
                     genotype_dict[rsID] = genotype
-                    if not("0" in genotype):
+                    if not("1" in genotype):
                         other_variants_have_reference = False
                 ## Save genotypes in tag GL
                 geno_string = []

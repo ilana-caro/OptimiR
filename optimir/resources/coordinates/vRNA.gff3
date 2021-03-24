@@ -1,0 +1,16 @@
+##gff-version 3
+##date 2021-02-03
+#
+# Chromosomal coordinates of Homo sapiens vault RNA
+# vault RNA:               GenBank
+# genome-build-id:         GRCh38
+#genome-build-accession:  NCBI_Assembly:GCA_000001405.15
+#
+# snoRNA precursor sequences have type "miRNA_primary_transcript"
+#vaultRNA derived sequences have type "miRNA".
+chr5	.	miRNA	140711276	140711297	.		.	ID=vRNAa;Alias=vRNAa;Name=vRNAa;Derives_from=vRNA1
+chr5	.	miRNA	140711286	140711308	.		.	ID=vRNAb;Alias=vRNAb;Name=vRNAb;Derives_from=vRNA1
+chr5	.	miRNA	140711276	140711308	.		.	ID=vRNApre-b;Alias=vRNApre-b;Name=vRNApre-b;Derives_from=vRNA1
+chr5	.	miRNA	140711349	140711373	.		.	ID=vRNAa*;Alias=vRNAa*;Name=vRNAa*;Derives_from=vRNA1
+chr5	.	miRNA	140711346	140711367	.		.	ID=vRNAb*;Alias=vRNAb*;Name=vRNAb*;Derives_from=vRNA1
+chr5	.	miRNA_primary_transcript	140711276	140711373	.		.	ID=vRNA1;Alias=vRNA1;Name=vRNA1

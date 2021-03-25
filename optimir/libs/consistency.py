@@ -236,10 +236,10 @@ def write_polymiRs_outputs(bam_dict, bam, collapse_table, sample_name, dir_resul
                             geno = "0/1"
                             qual = rate_alt * 2 if rate_alt < 0.5 else (1-rate_alt) *2
                         elif rate_alt >= INCONSISTENT_RATE_THRESHOLD:
-                            geno = "1/1"
+                            geno = "0/0"
                             qual = 1 - (1-rate_alt)*10
                         else:
-                            geno = "0/0"
+                            geno = "1/1"
                             qual = 1 - rate_alt*20
                         counts = "{},{}".format(counts_ref, counts_alt)
                         geno_s = "{}:{}".format(geno, counts)

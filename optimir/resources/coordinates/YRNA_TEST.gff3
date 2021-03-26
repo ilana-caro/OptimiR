@@ -1,0 +1,22 @@
+##gff-version 3
+##date 2021-02-03
+#
+# Chromosomal coordinates of Homo sapiens YRNAs
+# YRNAs:               NCBI
+# genome-build-id:         GRCh38
+#genome-build-accession:  NCBI_Assembly:GCA_000001405.15
+#
+#YRNA precursor sequences have type "YRNA"
+#Fragments of YRNA sequences have type " ".
+chr7	.	miRNA_primary_transcript	148987136	148987248	.	-	.	ID=RNY1;Alias=RNY1;Name=RNY1
+chr7	.	miRNA	148987136	148987168	.	-	.	ID=s-RNAY1-5p;Alias=s-RNY1-5p;Name=s-RNY1-5p;Derives_from=RNY1
+chr7	.	miRNA	148987220	148987248	.	-	.	ID=s-RNY1-3p;Alias=s-RNY1-3p;Name=s-RNY1-3p;Derives_from=RNY1
+chr7	.	miRNA_primary_transcript	148983755	148983856	.	+	.	ID=RNY3;Alias=RNY3;Name=RNY3
+chr7	.	miRNA	148983755	148983780	.	+	.	ID=s-RNY3-5p;Alias=s-RNY3-5p;Name=s-RNY3-5p;Derives_from=RNY3
+chr7	.	miRNA	148983828	148983853	.	+	.	ID=s-RNY3-3p;Alias=s-RNY3-3p;Name=s-RNY3-3p;Derives_from=RNY3
+chr7	.	miRNA_primary_transcript	148963315	148963410	.	+	.	ID=RNY4;Alias=RNY4;Name=RNY4
+chr7	.	miRNA	148963316	148963348	.	+	.	ID=s-RNY4-5p;Alias=s-RNY4-5p;Name=s-RNY4-5p;Derives_from=RNY4
+chr7	.	miRNA	148963378	148963408	.	+	.	ID=s-RNY4-3p;Alias=s-RNY4-3p;Name=s-RNY4-3p;Derives_from=RNY4
+chr7	.	miRNA_primary_transcript	148941488	148941571	.	+	.	ID=RNY5;Alias=RNY5;Name=RNY5
+chr7	.	miRNA	148941488	148941517	.	+	.	ID=s-RNY5-5p;Alias=s-RNY5-5p;Name=s-RNY5-5p;Derives_from=RNY5
+chr7	.	miRNA	148941538	148941564	.	+	.	ID=s-RNY5-3p;Alias=s-RNY5-3p;Name=s-RNY5-3p;Derives_from=RNY5

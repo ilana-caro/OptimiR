@@ -1,0 +1,74 @@
+##gff-version 3
+##date 2021-01-13
+#
+# Chromosomal coordinates of Homo sapiens tRFs
+# tRFs:               tRFdb 2012
+# genome-build-id:         GRCh19
+#genome-build-accession:  NCBI_Assembly:GCA_000001405.15
+#
+# tRNA precursor sequences have type "tRNA"
+#Fragments of tRNA sequences have type "tRF".
+chr10	.	miRNA_primary_transcript	69524261	69524342	.	+	.	ID=chr10.trna2-SerTGA;Alias=chr10.trna2-SerTGA;Name=chr10.trna2-SerTGA
+chr17	.	miRNA_primary_transcript	8090184	8090265	.	+	.	ID=chr17.trna7-SerGCT;Alias=chr17.trna7-SerGCT;Name=chr17.trna7-SerGCT
+chr12	.	miRNA_primary_transcript	98897281	98897352	.	+	.	ID=chr12.trna5-AspGTC;Alias=chr12.trna5-AspGTC;Name=chr12.trna5-AspGTC
+chr15	.	miRNA_primary_transcript	40886023	40886104	.	-	.	ID=chr15.trna10-SerGCT;Alias=chr15.trna10-SerGCT;Name=chr15.trna10-SerGCT
+chr6	.	miRNA_primary_transcript	26537726	26537798	.	+	.	ID=chr6.trna8-ArgACG;Alias=chr6.trna8-ArgACG;Name=chr6.trna8-ArgACG
+chr6	.	miRNA_primary_transcript	28557156	28557227	.	+	.	ID=chr6.trna64-GlnTTG;Alias=chr6.trna64-GlnTTG;Name=chr6.trna64-GlnTTG
+chr6	.	miRNA_primary_transcript	28615984	28616057	.	-	.	ID=chr6.trna121-ThrCGT;Alias=chr6.trna121-ThrCGT;Name=chr6.trna121-ThrCGT
+chr10	.	miRNA_primary_transcript	5895674	5895746	.	-	.	ID=chr10.trna6-ValTAC;Alias=chr10.trna6-ValTAC;Name=chr10.trna6-ValTAC
+chr21	.	miRNA_primary_transcript	18827107	18827177	.	-	.	ID=chr21.trna2-GlyGCC;Alias=chr21.trna2-GlyGCC;Name=chr21.trna2-GlyGCC
+chr6	.	miRNA_primary_transcript	28641613	28641684	.	-	.	ID=chr6.trna119-AlaCGC;Alias=chr6.trna119-AlaCGC;Name=chr6.trna119-AlaCGC
+chr17	.	miRNA_primary_transcript	37310744	37310815	.	-	.	ID=chr17.trna26-CysGCA;Alias=chr17.trna26-CysGCA;Name=chr17.trna26-CysGCA
+chr6	.	miRNA_primary_transcript	28949449	28949521	.	-	.	ID=chr6.trna96-PheGAA;Alias=chr6.trna96-PheGAA;Name=chr6.trna96-PheGAA
+chr1	.	miRNA_primary_transcript	161439547	161439618	.	-	.	ID=chr1.trna70-GlyTCC;Alias=chr1.trna70-GlyTCC;Name=chr1.trna70-GlyTCC
+chr5	.	miRNA_primary_transcript	180634755	180634827	.	+	.	ID=chr5.trna9-LysCTT;Alias=chr5.trna9-LysCTT;Name=chr5.trna9-LysCTT
+chr6	.	miRNA_primary_transcript	27205350	27205423	.	-	.	ID=chr6.trna154-IleAAT;Alias=chr6.trna154-IleAAT;Name=chr6.trna154-IleAAT
+chr6	.	miRNA_primary_transcript	27144994	27145067	.	-	.	ID=chr6.trna158-IleAAT;Alias=chr6.trna158-IleAAT;Name=chr6.trna158-IleAAT
+chr6	.	miRNA_primary_transcript	26313352	26313423	.	-	.	ID=chr6.trna171-MetCAT;Alias=chr6.trna171-MetCAT;Name=chr6.trna171-MetCAT
+chr6	.	miRNA_primary_transcript	27447453	27447524	.	+	.	ID=chr6.trna45-AspGTC;Alias=chr6.trna45-AspGTC;Name=chr6.trna45-AspGTC
+chr6	.	miRNA_primary_transcript	28611222	28611293	.	+	.	ID=chr6.trna66-AlaTGC;Alias=chr6.trna66-AlaTGC;Name=chr6.trna66-AlaTGC
+chr8	.	miRNA_primary_transcript	96281885	96281966	.	-	.	ID=chr8.trna11-SerAGA;Alias=chr8.trna11-SerAGA;Name=chr8.trna11-SerAGA
+chr8	.	miRNA_primary_transcript	67025602	67025694	.	+	.	ID=chr8.trna4-TyrGTA;Alias=chr8.trna4-TyrGTA;Name=chr8.trna4-TyrGTA
+chr11	.	miRNA_primary_transcript	59319228	59319310	.	+	.	ID=chr11.trna4-LeuTAA;Alias=chr11.trna4-LeuTAA;Name=chr11.trna4-LeuTAA
+chr14	.	miRNA_primary_transcript	23398910	23398982	.	+	.	ID=chr14.trna7-ArgACG;Alias=chr14.trna7-ArgACG;Name=chr14.trna7-ArgACG
+chr15	.	miRNA_primary_transcript	89878304	89878376	.	+	.	ID=chr15.trna4-ArgTCG;Alias=chr15.trna4-ArgTCG;Name=chr15.trna4-ArgTCG
+chr16	.	miRNA_primary_transcript	14379750	14379821	.	+	.	ID=chr16.trna15-ThrCGT;Alias=chr16.trna15-ThrCGT;Name=chr16.trna15-ThrCGT
+chr16	.	miRNA_primary_transcript	22308461	22308542	.	+	.	ID=chr16.trna16-LeuAAG;Alias=chr16.trna16-LeuAAG;Name=chr16.trna16-LeuAAG
+chr16	.	miRNA_primary_transcript	22207032	22207113	.	-	.	ID=chr16.trna27-LeuTAG;Alias=chr16.trna27-LeuTAG;Name=chr16.trna27-LeuTAG
+chr17	.	miRNA_primary_transcript	73030001	73030073	.	+	.	ID=chr17.trna18-ArgCCT;Alias=chr17.trna18-ArgCCT;Name=chr17.trna18-ArgCCT
+chr17	.	miRNA_primary_transcript	73030526	73030598	.	-	.	ID=chr17.trna21-ArgCCT;Alias=chr17.trna21-ArgCCT;Name=chr17.trna21-ArgCCT
+chr17	.	miRNA_primary_transcript	8130309	8130382	.	-	.	ID=chr17.trna34-IleAAT;Alias=chr17.trna34-IleAAT;Name=chr17.trna34-IleAAT
+chr19	.	miRNA_primary_transcript	4724082	4724153	.	+	.	ID=chr19.trna2-GlyTCC;Alias=chr19.trna2-GlyTCC;Name=chr19.trna2-GlyTCC
+chr19	.	miRNA_primary_transcript	33667963	33668036	.	+	.	ID=chr19.trna4-ThrAGT;Alias=chr19.trna4-ThrAGT;Name=chr19.trna4-ThrAGT
+chr10	.	miRNA	69524341	69524360	.	+	.	ID=1001;Alias=chr10.trna2-SerTGA_trf-1-1001;Name=chr10.trna2-SerTGA_trf-1-1001;Derives_from=chr10.trna2-SerTGA
+chr17	.	miRNA	8090266	8090291	.	+	.	ID=1003;Alias=chr17.trna7-SerGCT_trf-1-1003;Name=chr17.trna7-SerGCT_trf-1-1003;Derives_from=chr17.trna7-SerGCT
+chr12	.	miRNA	98897353	98897370	.	+	.	ID=1004;Alias=chr12.trna5-AspGTC_trf-1-1004;Name=chr12.trna5-AspGTC_trf-1-1004;Derives_from=chr12.trna5-AspGTC
+chr15	.	miRNA	40886186	40886202	.	-	.	ID=1005;Alias=chr15.trna10-SerGCT_trf-1-1005;Name=chr15.trna10-SerGCT_trf-1-1005;Derives_from=chr15.trna10-SerGCT
+chr6	.	miRNA	26537799	26537817	.	+	.	ID=1006;Alias=chr6.trna8-ArgACG_trf-1-1006;Name=chr6.trna8-ArgACG_trf-1-1006;Derives_from=chr6.trna8-ArgACG
+chr6	.	miRNA	28557228	28557244	.	+	.	ID=1007;Alias=chr6.trna64-GlnTTG_trf-1-1007;Name=chr6.trna64-GlnTTG_trf-1-1007;Derives_from=chr6.trna64-GlnTTG
+chr6	.	miRNA	28616131	28616148	.	-	.	ID=1008;Alias=chr6.trna121-ThrCGT_trf-1-1008;Name=chr6.trna121-ThrCGT_trf-1-1008;Derives_from=chr6.trna121-ThrCGT
+chr10	.	miRNA	5895819	5895835	.	-	.	ID=1010;Alias=chr10.trna6-ValTAC_trf-1-1010;Name=chr10.trna6-ValTAC_trf-1-1010;Derives_from=chr10.trna6-ValTAC
+chr21	.	miRNA	18827248	18827264	.	-	.	ID=1012;Alias=chr21.trna2-GlyGCC_trf-1-1012;Name=chr21.trna2-GlyGCC_trf-1-1012;Derives_from=chr21.trna2-GlyGCC
+chr6	.	miRNA	28641756	28641773	.	-	.	ID=1013;Alias=chr6.trna119-AlaCGC_trf-1-1013;Name=chr6.trna119-AlaCGC_trf-1-1013;Derives_from=chr6.trna119-AlaCGC
+chr17	.	miRNA	37310887	37310909	.	-	.	ID=1015;Alias=chr17.trna26-CysGCA_trf-1-1015;Name=chr17.trna26-CysGCA_trf-1-1015;Derives_from=chr17.trna26-CysGCA
+chr6	.	miRNA	28949594	28949610	.	-	.	ID=1020;Alias=chr6.trna96-PheGAA_trf-1-1020;Name=chr6.trna96-PheGAA_trf-1-1020;Derives_from=chr6.trna96-PheGAA
+chr1	.	miRNA	161439690	161439704	.	-	.	ID=1023;Alias=chr1.trna70-GlyTCC_trf-1-1023;Name=chr1.trna70-GlyTCC_trf-1-1023;Derives_from=chr1.trna70-GlyTCC
+chr5	.	miRNA	180634828	180634842	.	+	.	ID=1024;Alias=chr5.trna9-LysCTT_trf-1-1024;Name=chr5.trna9-LysCTT_trf-1-1024;Derives_from=chr5.trna9-LysCTT
+chr6	.	miRNA	27205497	27205524	.	-	.	ID=1025;Alias=chr6.trna154-IleAAT_trf-1-1025;Name=chr6.trna154-IleAAT_trf-1-1025;Derives_from=chr6.trna154-IleAAT
+chr6	.	miRNA	27145141	27145157	.	-	.	ID=1026;Alias=chr6.trna158-IleAAT_trf-1-1026;Name=chr6.trna158-IleAAT_trf-1-1026;Derives_from=chr6.trna158-IleAAT
+chr6	.	miRNA	26313495	26313510	.	-	.	ID=1027;Alias=chr6.trna171-MetCAT_trf-1-1027;Name=chr6.trna171-MetCAT_trf-1-1027;Derives_from=chr6.trna171-MetCAT
+chr6	.	miRNA	27447525	27447539	.	+	.	ID=1028;Alias=chr6.trna45-AspGTC_trf-1-1028;Name=chr6.trna45-AspGTC_trf-1-1028;Derives_from=chr6.trna45-AspGTC
+chr6	.	miRNA	28611294	28611310	.	+	.	ID=1029;Alias=chr6.trna66-AlaTGC_trf-1-1029;Name=chr6.trna66-AlaTGC_trf-1-1029;Derives_from=chr6.trna66-AlaTGC
+chr8	.	miRNA	96282048	96282062	.	-	.	ID=1030;Alias=chr8.trna11-SerAGA_trf-1-1030;Name=chr8.trna11-SerAGA_trf-1-1030;Derives_from=chr8.trna11-SerAGA
+chr8	.	miRNA	67025695	67025710	.	+	.	ID=1031;Alias=chr8.trna4-TyrGTA_trf-1-1031;Name=chr8.trna4-TyrGTA_trf-1-1031;Derives_from=chr8.trna4-TyrGTA
+chr11	.	miRNA	59319311	59319325	.	+	.	ID=1032;Alias=chr11.trna4-LeuTAA_trf-1-1032;Name=chr11.trna4-LeuTAA_trf-1-1032;Derives_from=chr11.trna4-LeuTAA
+chr14	.	miRNA	23398983	23399018	.	+	.	ID=1033;Alias=chr14.trna7-ArgACG_trf-1-1033;Name=chr14.trna7-ArgACG_trf-1-1033;Derives_from=chr14.trna7-ArgACG
+chr15	.	miRNA	89878377	89878398	.	+	.	ID=1034;Alias=chr15.trna4-ArgTCG_trf-1-1034;Name=chr15.trna4-ArgTCG_trf-1-1034;Derives_from=chr15.trna4-ArgTCG
+chr16	.	miRNA	14379822	14379857	.	+	.	ID=1035;Alias=chr16.trna15-ThrCGT_trf-1-1035;Name=chr16.trna15-ThrCGT_trf-1-1035;Derives_from=chr16.trna15-ThrCGT
+chr16	.	miRNA	22308543	22308557	.	+	.	ID=1036;Alias=chr16.trna16-LeuAAG_trf-1-1036;Name=chr16.trna16-LeuAAG_trf-1-1036;Derives_from=chr16.trna16-LeuAAG
+chr16	.	miRNA	22207195	22207214	.	-	.	ID=1037;Alias=chr16.trna27-LeuTAG_trf-1-1037;Name=chr16.trna27-LeuTAG_trf-1-1037;Derives_from=chr16.trna27-LeuTAG
+chr17	.	miRNA	73030074	73030089	.	+	.	ID=1038;Alias=chr17.trna18-ArgCCT_trf-1-1038;Name=chr17.trna18-ArgCCT_trf-1-1038;Derives_from=chr17.trna18-ArgCCT
+chr17	.	miRNA	73030671	73030701	.	-	.	ID=1039;Alias=chr17.trna21-ArgCCT_trf-1-1039;Name=chr17.trna21-ArgCCT_trf-1-1039;Derives_from=chr17.trna21-ArgCCT
+chr17	.	miRNA	8130456	8130470	.	-	.	ID=1040;Alias=chr17.trna34-IleAAT_trf-1-1040;Name=chr17.trna34-IleAAT_trf-1-1040;Derives_from=chr17.trna34-IleAAT
+chr19	.	miRNA	4724154	4724168	.	+	.	ID=1041;Alias=chr19.trna2-GlyTCC_trf-1-1041;Name=chr19.trna2-GlyTCC_trf-1-1041;Derives_from=chr19.trna2-GlyTCC
+chr19	.	miRNA	33668037	33668064	.	+	.	ID=1042;Alias=chr19.trna4-ThrAGT_trf-1-1042;Name=chr19.trna4-ThrAGT_trf-1-1042;Derives_from=chr19.trna4-ThrAGT

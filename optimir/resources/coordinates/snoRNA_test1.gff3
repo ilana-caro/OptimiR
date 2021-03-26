@@ -1,0 +1,120 @@
+##gff-version 3
+##date 2021-02-03
+#
+# Chromosomal coordinates of Homo sapiens snoRNA
+# snoRNA:               DASHR V2.0
+# genome-build-id:         GRCh38
+#genome-build-accession:  NCBI_Assembly:GCA_000001405.15
+#
+# snoRNA precursor sequences have type "miRNA_primary_transcript"
+#snoRNA sequences have type "miRNA".
+chr3	.	miRNA	186784797	186784823	.		.	ID=sd_snR39B-5p;Alias=snR39B;Name=sd_snR39B-5p;Derives_from=snR39B
+chr3	.	miRNA	186784835	186784855	.		.	ID=sd_snR39B-3p;Alias=SNORD3A;Name=sd_snR39B-3p;Derives_from=snR39B
+chr17	.	miRNA	19188061	19188082	.		.	ID=sd_SNORD3A-1;Alias=SNORD3A;Name=sd_SNORD3A-1;Derives_from=SNORD3A
+chr17	.	miRNA	19188198	19188229	.		.	ID=sd_SNORD3A-2;Alias=U78;Name=sd_SNORD3A-2;Derives_from=SNORD3A
+chr1	.	miRNA	173865622	173865644	.		.	ID=sd_U78-5p;Alias=U78;Name=sd_U78-5p;Derives_from=U78
+chr1	.	miRNA	173865654	173865684	.		.	ID=sd_U78-3p;Alias=HBII-336;Name=sd_U78-3p;Derives_from=U78
+chr7	.	miRNA	22856614	22856635	.		.	ID=sd_HBII-336;Alias=HBI-43;Name=sd_HBII-336;Derives_from=HBII-336
+chr20	.	miRNA	17962712	17962738	.		.	ID=sd_HBI-43-5p;Alias=HBI-43;Name=sd_HBI-43-5p;Derives_from=HBI-43
+chr20	.	miRNA	17962918	17962940	.		.	ID=sd_HBI-43-3p;Alias=HBII-142;Name=sd_HBI-43-3p;Derives_from=HBI-43
+chr3	.	miRNA	184325741	184325757	.		.	ID=sd_HBII-142;Alias=U48;Name=sd_HBII-142;Derives_from=HBII-142
+chr6	.	miRNA	31835263	31835288	.		.	ID=sd_U48-5p;Alias=U48;Name=sd_U48-5p;Derives_from=U48
+chr6	.	miRNA	31835302	31835320	.		.	ID=sd_U48-3p;Alias=U51;Name=sd_U48-3p;Derives_from=U48
+chr2	.	miRNA	206161882	206161909	.		.	ID=sd_U51-5p;Alias=U51;Name=sd_U51-5p;Derives_from=U51
+chr2	.	miRNA	206161921	206161944	.		.	ID=sd_U51-3p;Alias=U21;Name=sd_U51-3p;Derives_from=U51
+chr1	.	miRNA	92837290	92837315	.		.	ID=sd_U21-5p;Alias=U21;Name=sd_U21-5p;Derives_from=U21
+chr1	.	miRNA	92837349	92837372	.		.	ID=sd_U21-3p;Alias=U27;Name=sd_U21-3p;Derives_from=U21
+chr11	.	miRNA	62855013	62855035	.		.	ID=sd_U27-5p;Alias=U27;Name=sd_U27-5p;Derives_from=U27
+chr11	.	miRNA	62855001	62855027	.		.	ID=sd_U27-3p;Alias=U44;Name=sd_U27-3p;Derives_from=U27
+chr1	.	miRNA	173865967	173865991	.		.	ID=sd_U44-5p;Alias=U44;Name=sd_U44-5p;Derives_from=U44
+chr1	.	miRNA	173865996	173866020	.		.	ID=sd_U44-3p;Alias=HBII-429;Name=sd_U44-3p;Derives_from=U44
+chr6	.	miRNA	132816805	132816834	.		.	ID=sd_HBII-429-5p;Alias=HBII-429;Name=sd_HBII-429-5p;Derives_from=HBII-429
+chr6	.	miRNA	132816836	132816866	.		.	ID=sd_HBII-429-3p;Alias=U59B;Name=sd_HBII-429-3p;Derives_from=HBII-429
+chr12	.	miRNA	56643685	56643702	.		.	ID=sd_U59B-5p;Alias=U59B;Name=sd_U59B-5p;Derives_from=U59B
+chr12	.	miRNA	56643724	56643745	.		.	ID=sd_U59B-3p;Alias=U83A;Name=sd_U59B-3p;Derives_from=U59B
+chr22	.	miRNA	39315216	39315237	.		.	ID=sd_U83A;Alias=U15A;Name=sd_U83A;Derives_from=U83A
+chr11	.	miRNA	75400392	75400417	.		.	ID=sd_U15A-5p;Alias=U15A;Name=sd_U15A-5p;Derives_from=U15A
+chr11	.	miRNA	75400506	75400529	.		.	ID=sd_U15A-3p;Alias=U74;Name=sd_U15A-3p;Derives_from=U15A
+chr1	.	miRNA	173867676	173867706	.		.	ID=sd_U74-5p;Alias=U74;Name=sd_U74-5p;Derives_from=U74
+chr1	.	miRNA	173867715	173867739	.		.	ID=sd_U74-3p;Alias=U45A;Name=sd_U74-3p;Derives_from=U74
+chr1	.	miRNA	75787889	75787915	.		.	ID=sd_U45A-5p;Alias=U45A;Name=sd_U45A-5p;Derives_from=U45A
+chr1	.	miRNA	75787946	75787962	.		.	ID=sd_U45A-3p;Alias=HBII-180A;Name=sd_U45A-3p;Derives_from=U45A
+chr19	.	miRNA	50799475	50799495	.		.	ID=sd_HBII-180A;Alias=HBII-180B;Name=sd_HBII-180A;Derives_from=HBII-180A
+chr19	.	miRNA	50799065	50799085	.		.	ID=sd_HBII-180B;Alias=HBII-180C;Name=sd_HBII-180B;Derives_from=HBII-180B
+chr19	.	miRNA	50802361	50802381	.		.	ID=sd_HBII-180C;Alias=HBII-239;Name=sd_HBII-180C;Derives_from=HBII-180C
+chr16	.	miRNA	71758407	71758432	.		.	ID=sd_HBII-239-5p;Alias=HBII-239;Name=sd_HBII-239-5p;Derives_from=HBII-239
+chr16	.	miRNA	71758452	71758479	.		.	ID=sd_HBII-239-3p;Alias=HBII-99B;Name=sd_HBII-239-3p;Derives_from=HBII-239
+chr20	.	miRNA	49280323	49280357	.		.	ID=sd_HBII-99B;Alias=U31;Name=sd_HBII-99B;Derives_from=HBII-99B
+chr11	.	miRNA	62853327	62853349	.		.	ID=sd_U31-5p;Alias=U31;Name=sd_U31-5p;Derives_from=U31
+chr11	.	miRNA	62853363	62853389	.		.	ID=sd_U31-3p;Alias=HBII-419;Name=sd_U31-3p;Derives_from=U31
+chr10	.	miRNA	68755209	68755236	.		.	ID=sd_HBII-419;Alias=HBII-142;Name=sd_HBII-419;Derives_from=HBII-419
+chr3	.	miRNA	184325696	184325716	.		.	ID=sd_HBII-142-5p;Alias=HBII-142;Name=sd_HBII-142-5p;Derives_from=HBII-142
+chr3	.	miRNA	184325731	184325755	.		.	ID=sd_HBII-142-3p_1;Alias=HBII-142;Name=sd_HBII-142-3p_1;Derives_from=HBII-142
+chr3	.	miRNA	184325743	184325767	.		.	ID=sd_HBII-142-3p_2;Alias=U14A;Name=sd_HBII-142-3p_2;Derives_from=HBII-142
+chr11	.	miRNA	17075778	17075796	.		.	ID=sd_U14A-5p;Alias=U14A;Name=sd_U14A-5p;Derives_from=U14A
+chr11	.	miRNA	17075849	17075867	.		.	ID=sd_U14A-3p;Alias=U24;Name=sd_U14A-3p;Derives_from=U14A
+chr9	.	miRNA	133349396	133349414	.		.	ID=sd_U24-5p;Alias=U24;Name=sd_U24-5p;Derives_from=U24
+chr9	.	miRNA	133349422	133349446	.		.	ID=sd_U24;Alias=U24;Name=sd_U24;Derives_from=U24
+chr9	.	miRNA	133349449	133349470	.		.	ID=sd_U24-3p;Alias=mgU6-77;Name=sd_U24-3p;Derives_from=U24
+chr17	.	miRNA	7576811	7576844	.		.	ID=sd_mgU6-77;Alias=ACA45;Name=sd_mgU6-77;Derives_from=mgU6-77
+chr15	.	miRNA	82756047	82756068	.		.	ID=sd_ACA45-3p;Alias=ACA45;Name=sd_ACA45-3p;Derives_from=ACA45
+chr15	.	miRNA	82756005	82756024	.		.	ID=sd_ACA45;Alias=ACA36B;Name=sd_ACA45;Derives_from=ACA45
+chr1	.	miRNA	220200652	220200674	.		.	ID=sd_ACA36B-3p;Alias=ACA36B;Name=sd_ACA36B-3p;Derives_from=ACA36B
+chr1	.	miRNA	220200614	220200635	.		.	ID=sd_ACA36B;Alias=U92;Name=sd_ACA36B;Derives_from=ACA36B
+chr9	.	miRNA	19063761	19063784	.		.	ID=sd_U92-3p;Alias=U92;Name=sd_U92-3p;Derives_from=U92
+chr9	.	miRNA	19063723	19063745	.		.	ID=sd_U92;Alias=HBI-100;Name=sd_U92;Derives_from=U92
+chr1	.	miRNA	175968399	175968418	.		.	ID=sd_HBI-100-5p;Alias=HBI-100;Name=sd_HBI-100-5p;Derives_from=HBI-100
+chr1	.	miRNA	175968479	175968500	.		.	ID=sd_HBI-100-3p;Alias=ACA56;Name=sd_HBI-100-3p;Derives_from=HBI-100
+chrX	.	miRNA	154775100	154775121	.		.	ID=sd_ACA56-3p;Alias=ACA56;Name=sd_ACA56-3p;Derives_from=ACA56
+chrX	.	miRNA	154775062	154775086	.		.	ID=sd_ACA56;Alias=ACA3;Name=sd_ACA56;Derives_from=ACA56
+chr11	.	miRNA	8684227	8684249	.		.	ID=sd_ACA3-5p;Alias=ACA3;Name=sd_ACA3-5p;Derives_from=ACA3
+chr11	.	miRNA	8684338	8684356	.		.	ID=sd_ACA3-3p;Alias=ACA50;Name=sd_ACA3-3p;Derives_from=ACA3
+chr16	.	miRNA	58559797	58559821	.		.	ID=sd_ACA50-5p;Alias=ACA50;Name=sd_ACA50-5p;Derives_from=ACA50
+chr16	.	miRNA	58559838	58559859	.		.	ID=sd_ACA50;Alias=ACA47;Name=sd_ACA50;Derives_from=ACA50
+chr17	.	miRNA	77089307	77089328	.		.	ID=sd_ACA47-5p;Alias=ACA47;Name=sd_ACA47-5p;Derives_from=ACA47
+chr17	.	miRNA	77089406	77089426	.		.	ID=sd_ACA47-3p;Alias=ACA34;Name=sd_ACA47-3p;Derives_from=ACA47
+chr12	.	miRNA	48654384	48654406	.		.	ID=sd_ACA34-5p;Alias=HBI-61;Name=sd_ACA34-5p;Derives_from=ACA34
+chr3	.	miRNA	186786677	186786701	.		.	ID=sd_HBI-61;Alias=U30;Name=sd_HBI-61;Derives_from=HBI-61
+chr11	.	miRNA	62853663	62853679	.		.	ID=sd_U30;Alias=U58C;Name=sd_U30;Derives_from=U30
+chr18	.	miRNA	49489244	49489272	.		.	ID=sd_U58C;Alias=HBII-420;Name=sd_U58C;Derives_from=U58C
+chr1	.	miRNA	28578746	28578810	.		.	ID=sd_HBII-420;Alias=HBII-420;Name=sd_HBII-420;Derives_from=HBII-420
+chr3	.	miRNA_primary_transcript	186784796	186784865	.	+	.	ID=snR39B;Alias=snR39B;Name=snR39B
+chr17	.	miRNA_primary_transcript	19188016	19188232	.	+	.	ID=SNORD3A;Alias=SNORD3A;Name=SNORD3A
+chr1	.	miRNA_primary_transcript	173865622	173865686	.	-	.	ID=U78;Alias=U78;Name=U78
+chr7	.	miRNA_primary_transcript	22856613	22856686	.	+	.	ID=HBII-336;Alias=HBII-336;Name=HBII-336
+chr20	.	miRNA_primary_transcript	17962710	17962946	.	-	.	ID=HBI-43;Alias=HBI-43;Name=HBI-43
+chr3	.	miRNA_primary_transcript	184325696	184325771	.	+	.	ID=HBII-142;Alias=HBII-142;Name=HBII-142
+chr6	.	miRNA_primary_transcript	31835263	31835326	.	+	.	ID=U48;Alias=U48;Name=U48
+chr2	.	miRNA_primary_transcript	206161881	206161950	.	+	.	ID=U51;Alias=U51;Name=U51
+chr1	.	miRNA_primary_transcript	92837289	92837383	.	+	.	ID=U21;Alias=U21;Name=U21
+chr11	.	miRNA_primary_transcript	62855012	62855083	.	-	.	ID=U27;Alias=U27;Name=U27
+chr1	.	miRNA_primary_transcript	173865966	173866028	.	-	.	ID=U44;Alias=U44;Name=U44
+chr6	.	miRNA_primary_transcript	132816802	132816877	.	+	.	ID=HBII-429;Alias=HBII-429;Name=HBII-429
+chr12	.	miRNA_primary_transcript	56643680	56643754	.	-	.	ID=U59B;Alias=U59B;Name=U59B
+chr22	.	miRNA_primary_transcript	39315213	39315307	.	-	.	ID=U83A;Alias=U83A;Name=U83A
+chr11	.	miRNA_primary_transcript	75400391	75400538	.	+	.	ID=U15A;Alias=U15A;Name=U15A
+chr1	.	miRNA_primary_transcript	173867674	173867745	.	-	.	ID=U74;Alias=U74;Name=U74
+chr1	.	miRNA_primary_transcript	75787889	75787971	.	+	.	ID=U45A;Alias=U45A;Name=U45A
+chr19	.	miRNA_primary_transcript	50799439	50799535	.	-	.	ID=HBII-180A;Alias=HBII-180A;Name=HBII-180A
+chr19	.	miRNA_primary_transcript	50799029	50799125	.	-	.	ID=HBII-180B;Alias=HBII-180B;Name=HBII-180B
+chr19	.	miRNA_primary_transcript	50802325	50802421	.	-	.	ID=HBII-180C;Alias=HBII-180C;Name=HBII-180C
+chr16	.	miRNA_primary_transcript	71758402	71758487	.	-	.	ID=HBII-239;Alias=HBII-239;Name=HBII-239
+chr20	.	miRNA_primary_transcript	49280319	49280409	.	+	.	ID=HBII-99B;Alias=HBII-99B;Name=HBII-99B
+chr11	.	miRNA_primary_transcript	62853325	62853395	.	-	.	ID=U31;Alias=U31;Name=U31
+chr10	.	miRNA_primary_transcript	68755172	68755238	.	+	.	ID=HBII-419;Alias=HBII-419;Name=HBII-419
+chr11	.	miRNA_primary_transcript	17075778	17075868	.	-	.	ID=U14A;Alias=U14A;Name=U14A
+chr9	.	miRNA_primary_transcript	133349396	133349470	.	+	.	ID=U24;Alias=U24;Name=U24
+chr17	.	miRNA_primary_transcript	7576811	7576958	.	+	.	ID=mgU6-77;Alias=mgU6-77;Name=mgU6-77
+chr15	.	miRNA_primary_transcript	82755945	82756071	.	+	.	ID=ACA45;Alias=ACA45;Name=ACA45
+chr1	.	miRNA_primary_transcript	220200546	220200676	.	-	.	ID=ACA36B;Alias=ACA36B;Name=ACA36B
+chr9	.	miRNA_primary_transcript	19063656	19063786	.	-	.	ID=U92;Alias=U92;Name=U92
+chr1	.	miRNA_primary_transcript	175968397	175968540	.	-	.	ID=HBI-100;Alias=HBI-100;Name=HBI-100
+chrX	.	miRNA_primary_transcript	154774998	154775126	.	+	.	ID=ACA56;Alias=ACA56;Name=ACA56
+chr11	.	miRNA_primary_transcript	8684227	8684356	.	+	.	ID=ACA3;Alias=ACA3;Name=ACA3
+chr16	.	miRNA_primary_transcript	58559796	58559931	.	-	.	ID=ACA50;Alias=ACA50;Name=ACA50
+chr17	.	miRNA_primary_transcript	77089307	77089493	.	+	.	ID=ACA47;Alias=ACA47;Name=ACA47
+chr12	.	miRNA_primary_transcript	48654382	48654518	.	-	.	ID=ACA34;Alias=ACA34;Name=ACA34
+chr3	.	miRNA_primary_transcript	186786675	186786852	.	+	.	ID=HBI-61;Alias=HBI-61;Name=HBI-61
+chr11	.	miRNA_primary_transcript	62853663	62853732	.	-	.	ID=U30;Alias=U30;Name=U30
+chr18	.	miRNA_primary_transcript	49489244	49489308	.	-	.	ID=U58C;Alias=U58C;Name=U58C
+chr1	.	miRNA_primary_transcript	28578743	28578822	.	-	.	ID=HBII-420;Alias=HBII-420;Name=HBII-420
